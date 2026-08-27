@@ -96,8 +96,8 @@ operator@github:~\$ _
 ## 📞 REDES DE COMUNICAÇÃO — `contact.channels`
 
 * 🌐 **Instagram:** [://instagram.com](https://instagram.com)
-* 💬 **Discord:** `seu_id_do_discord`
-* 📧 **E-mail:** `seuemail@gmail.com`
+* 💬 **Discord:** [://discord.gg](https://discord.gg/j6rrAJdvbh)
+* 📧 **E-mail:** `vytorodriguesdossantos@gmail.com`
 
 ---
 
