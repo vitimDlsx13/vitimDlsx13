@@ -1,32 +1,20 @@
-<div align="center">
+# 🔴 SYSTEM ONLINE — `Initializing Neural Interface...`
 
-<!-- BANNER PRINCIPAL -->
-<img src="https://vercel.app" width="100%"/>
+```bash
+> Booting core systems...
+> Loading identity_protocol.exe
+> Access granted, welcome back, operator.
+> Full-Stack | Game Dev | System Architect
+```
 
-<br>
+---
 
-<!-- TYPING ANIMATION -->
-<a href="#">
-  
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com)
-![Status](https://shields.io)
-![License](https://shields.io)
-
-</div>
-
-<img src="https://githubusercontent.com" width="100%" height="4px">
-
-<br>
-
-## <img src="https://giphy.com" width="35"> SOBRE MIM — `whoami`
+## 💻 SOBRE MIM — `whoami`
 
 ```yaml
 > operator.info:
     codename:        "vitimDlsx13"
+    nome:            "vitim"
     função:          "Desenvolvedor Full-Stack & Game Dev"
     localização:     "Brasil 🇧🇷"
     linguagem_core:  ["JavaScript", "Python", "C#", "Lua"]
@@ -35,76 +23,50 @@
     frase:           "Código é a única linguagem que reescreve a realidade."
 ```
 
-<div align="center">
-<img src="https://demolab.com" alt="sobre" />
-</div>
+> ⚡ *Transformando ideias em sistemas funcionais... Sempre testando os limites do código.*
 
-<br>
+---
 
-## <img src="https://giphy.com" width="35"> TECH STACK — `system.modules`
+## 🛠️ TECH STACK & FERRAMENTAS — `system.modules`
 
-<div align="center">
+| Módulos Core (Linguagens) | Ferramentas Carregadas (Tools) |
+| :--- | :--- |
+| 🛑 **JavaScript** | ⚙️ **VS Code** |
+| 🛑 **Lua (Roblox Studio)** | ⚙️ **Roblox Studio** |
+| 🛑 **Python** | ⚙️ **Git & GitHub** |
+| 🛑 **C#** | ⚙️ **Node.js** |
+| 🛑 **HTML5 & CSS3** | ⚙️ **Linux Terminal** |
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![C#](https://shields.io)
-![Lua](https://shields.io)
+---
 
-</div>
+## 🚀 PROJETOS EM DESTAQUE — `projects.render()`
 
-## <img src="https://giphy.com" width="35"> FERRAMENTAS — `tools.loaded`
-
-<div align="center">
-
-![VSCode](https://shields.io)
-![Roblox Studio](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Node.js](https://shields.io)
-![Figma](https://shields.io)
-![Postman](https://shields.io)
-![Linux](https://shields.io)
-
-</div>
-
-<img src="https://githubusercontent.com" width="100%" height="4px">
-
-## <img src="https://giphy.com" width="35"> PROJETOS EM DESTAQUE — `projects.render()`
-
-<div align="center">
-
-<table>
+<table border="1">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔴 `project_01.exe`
-**Nome do Projeto**
-Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
+**Nome do Projeto Principal**
+*Descrição curta e objetiva sobre o que o seu sistema ou jogo faz e qual problema ele resolve.*
 
 `JavaScript` `HTML` `CSS`
-
-[![Repo](https://shields.io)](https://github.com)
-
+👉 [Acessar Repositório](https://github.com)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔴 `project_02.exe`
-**Nome do Projeto**
-Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
+**Sistemas Roblox Studio**
+*Desenvolvimento de mecânicas modulares, interfaces limpas (UI) e automações internas usando Lua.*
 
-`Lua` `Roblox Studio`
-
-[![Repo](https://shields.io)](https://github.com)
-
+`Lua` `Roblox` `Engine`
+👉 [Acessar Repositório](https://github.com)
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-## <img src="https://giphy.com" width="35"> OBJETIVOS ATUAIS — `roadmap.log`
+## 🎯 OBJETIVOS ATUAIS — `roadmap.log`
 
 ```bash
 operator@github:~\$ cat objetivos_2026.log
@@ -119,40 +81,20 @@ operator@github:~\$ cat objetivos_2026.log
 operator@github:~\$ _
 ```
 
-<img src="https://githubusercontent.com" width="100%" height="4px">
+---
 
-## <img src="https://giphy.com" width="35"> ESTATÍSTICAS DO SISTEMA — `stats.dashboard`
+## 📞 REDES DE COMUNICAÇÃO — `contact.channels`
 
-<div align="center">
+* 🌐 **Instagram:** `://instagram.com`
+* 💬 **Discord:** `seu_id_do_discord`
+* 📧 **E-mail:** `seuemail@gmail.com`
 
-<!-- Gráfico de Status do GitHub -->
-<img src="https://vercel.app" width="49%" />
-
-<!-- Gráfico de Linguagens Mais Usadas -->
-<img src="https://vercel.app" width="49%" />
-
-</div>
-
-<br>
-
-<img src="https://githubusercontent.com" width="100%" height="4px">
-
-## <img src="https://giphy.com" width="35"> REDES DE COMUNICAÇÃO — `contact.channels`
+---
 
 <div align="center">
 
-[![Instagram](https://shields.io)](https://instagram.com)
-[![Discord](https://shields.io)](https://discord.com)
-[![Gmail](https://shields.io)](mailto:seuemail@gmail.com)
+`🔴 SYSTEM STATUS: ACTIVE — Última sincronização neural: em tempo real`
 
-</div>
-
-<div align="center">
-
-<img src="https://vercel.app"/>
-
-<sub>🔴 SYSTEM STATUS: <b>ACTIVE</b> — Última sincronização neural: em tempo real</sub>
-<br>
-<sub>© vitim · Todos os sistemas operando normalmente</sub>
+**© vitim · Todos os sistemas operando normalmente**
 
 </div>
