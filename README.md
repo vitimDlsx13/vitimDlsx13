@@ -1,15 +1,27 @@
-# 🔴 SYSTEM ONLINE — `Initializing Neural Interface...`
+<div align="center">
 
-```bash
-> Booting core systems...
-> Loading identity_protocol.exe
-> Access granted, welcome back, operator.
-> Full-Stack | Game Dev | System Architect
-```
+<!-- BANNER PRINCIPAL CYBERPUNK RED -->
+<img src="https://giphy.com" width="100%" alt="Cyberpunk Red Banner"/>
 
----
+<br><br>
 
-## 💻 SOBRE MIM — `whoami`
+<!-- TYPING ANIMATION TERMINAL STYLE -->
+<a href="#">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- BADGES NATIVAS SEM RISCO DE QUEBRA -->
+<img src="https://shields.io" />   <img src="https://shields.io" />
+
+</div>
+
+<br>
+<img src="https://giphy.com" width="100%" height="3px">
+<br>
+
+## 🔴 SOBRE MIM — `whoami`
 
 ```yaml
 > operator.info:
@@ -23,48 +35,54 @@
     frase:           "Código é a única linguagem que reescreve a realidade."
 ```
 
-> ⚡ *Transformando ideias em sistemas funcionais... Sempre testando os limites do código.*
+<br>
 
----
+## 🛠️ TECH STACK — `system.modules`
 
-## 🛠️ TECH STACK & FERRAMENTAS — `system.modules`
+<div align="center">
 
-| Módulos Core (Linguagens) | Ferramentas Carregadas (Tools) |
-| :--- | :--- |
-| 🛑 **JavaScript** | ⚙️ **VS Code** |
-| 🛑 **Lua (Roblox Studio)** | ⚙️ **Roblox Studio** |
-| 🛑 **Python** | ⚙️ **Git & GitHub** |
-| 🛑 **C#** | ⚙️ **Node.js** |
-| 🛑 **HTML5 & CSS3** | ⚙️ **Linux Terminal** |
+<!-- BADGES TECH CORE -->
+<img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/>
 
----
+<br>
+
+<!-- BADGES FERRAMENTAS -->
+<img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/>
+
+</div>
+
+<br>
+<img src="https://giphy.com" width="100%" height="3px">
+<br>
 
 ## 🚀 PROJETOS EM DESTAQUE — `projects.render()`
 
-<table border="1">
+<div align="center">
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d0d0d">
 
-### 🔴 `project_01.exe`
-**Nome do Projeto Principal**
-*Descrição curta e objetiva sobre o que o seu sistema ou jogo faz e qual problema ele resolve.*
+### 🔺 `project_01.exe`
+**Sistemas Complexos Web**
+*Construção de aplicações Full-Stack modernas focadas em alta performance e interfaces limpas e responsivas.*
 
 `JavaScript` `HTML` `CSS`
 👉 [Acessar Repositório](https://github.com)
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0d0d0d">
 
-### 🔴 `project_02.exe`
-**Sistemas Roblox Studio**
-*Desenvolvimento de mecânicas modulares, interfaces limpas (UI) e automações internas usando Lua.*
+### 🔺 `project_02.exe`
+**Engines & Game Dev**
+*Arquitetura de scripts estruturados em Lua, criação de frameworks de UI modernos e otimização para Roblox Studio.*
 
-`Lua` `Roblox` `Engine`
+`Lua` `Roblox Studio` `OOP`
 👉 [Acessar Repositório](https://github.com)
 </td>
 </tr>
 </table>
+</div>
 
----
+<br>
 
 ## 🎯 OBJETIVOS ATUAIS — `roadmap.log`
 
@@ -81,20 +99,24 @@ operator@github:~\$ cat objetivos_2026.log
 operator@github:~\$ _
 ```
 
----
+<br>
+<img src="https://giphy.com" width="100%" height="3px">
+<br>
 
 ## 📞 REDES DE COMUNICAÇÃO — `contact.channels`
 
-* 🌐 **Instagram:** `://instagram.com`
-* 💬 **Discord:** `seu_id_do_discord`
-* 📧 **E-mail:** `seuemail@gmail.com`
+<div align="center">
 
----
+[![Instagram](https://shields.io)](https://instagram.com)   [![Discord](https://shields.io)](https://discord.com)   [![Gmail](https://shields.io)](mailto:seuemail@gmail.com)
+
+</div>
+
+<br><br>
 
 <div align="center">
 
-`🔴 SYSTEM STATUS: ACTIVE — Última sincronização neural: em tempo real`
+`🔴 SYSTEM STATUS: ACTIVE — Sincronização neural concluída.`
 
-**© vitim · Todos os sistemas operando normalmente**
+**© vitim · Todos os sistemas operando normalmente sob protocolo vermelho.**
 
 </div>
