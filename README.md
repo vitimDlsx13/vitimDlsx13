@@ -60,16 +60,16 @@
 *Website oficial do estúdio independente de jogos. Desenvolvido para apresentar nossa identidade, novidades e conectar a comunidade.*
 
 `JavaScript` `HTML` `CSS` `Web`
-👉 [Acessar Site Oficial](https://kenzaiodyssey.netlify.app)
+👉 [Acessar Site Oficial](https://netlify.app)
 </td>
 <td width="50%" valign="top">
 
 ### 🔴 `project_02.exe`
 **157: Terra da Garoa**
-*Jogo de mundo aberto em desenvolvimento para a plataforma Roblox. Arquitetura de sistemas econômicos e mecânicas modulares em Lua.*
+*Jogo de mundo aberto em desenvolvimento para a plataforma Roblox. Desenvolvido por mim e pela minha equipe da **Kenzai Odyssey**. Arquitetura de sistemas econômicos e mecânicas modulares em Lua.*
 
 `Lua` `Roblox Studio` `Mundo Aberto`
-👉 [Acessar Repositório](https://github.com)
+👉 [Jogar no Roblox](https://www.roblox.com/pt/games/84138521847272/157-Terra-Da-Garoa)
 </td>
 </tr>
 </table>
@@ -105,6 +105,6 @@ operator@github:~\$ _
 
 `🔴 SYSTEM STATUS: ACTIVE — Última sincronização neural: em tempo real`
 
-**© vitim · Todos os sistemas operando normalmente sob o protocolo escuro.**
+**© vitim & Kenzai Odyssey · Todos os sistemas operando normalmente sob o protocolo escuro.**
 
 </div>
