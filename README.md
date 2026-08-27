@@ -80,7 +80,7 @@
 <td width="50%">
 
 ### 🔴 `project_01.exe`
-**Nome do Seu Projeto 1**
+**Nome do Projeto**
 Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 
 `JavaScript` `HTML` `CSS`
@@ -91,7 +91,7 @@ Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 <td width="50%">
 
 ### 🔴 `project_02.exe`
-**Nome do Seu Projeto 2**
+**Nome do Projeto**
 Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 
 `Lua` `Roblox Studio`
@@ -104,7 +104,7 @@ Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 <td width="50%">
 
 ### 🔴 `project_03.exe`
-**Nome do Seu Projeto 3**
+**Nome do Projeto**
 Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 
 `Python` `Automação`
@@ -115,7 +115,7 @@ Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 <td width="50%">
 
 ### 🔴 `project_04.exe`
-**Nome do Seu Projeto 4**
+**Nome do Projeto**
 Descrição curta e objetiva sobre o que o projeto faz e qual problema resolve.
 
 `C#` `Sistemas`
@@ -154,8 +154,6 @@ operator@github:~\$ _
 
 <img src="https://herokuapp.com" width="100%" />
 
-<img src="https://vercel.app" width="100%" />
-
 </div>
 
 ## <img src="https://giphy.com" width="35"> CONQUISTAS — `achievements.unlocked`
@@ -186,6 +184,7 @@ operator@github:~\$ _
 [![Discord](https://shields.io)](https://discord.com)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Gmail](https://shields.io)](mailto:seuemail@gmail.com)
+[![YouTube](https://shields.io)](https://youtube.com)
 
 </div>
 
@@ -195,6 +194,7 @@ operator@github:~\$ _
 
 <sub>🔴 SYSTEM STATUS: <b>ACTIVE</b> — Última sincronização neural: em tempo real</sub>
 <br>
-<sub>© vitimDlsx13 · Todos os sistemas operando normalmente</sub>
+<sub>© vitim · Todos os sistemas operando normalmente</sub>
 
 </div>
+
