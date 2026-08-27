@@ -56,19 +56,19 @@
 <td width="50%" valign="top">
 
 ### 🔴 `project_01.exe`
-**Nome do Projeto Principal**
-*Descrição curta e objetiva sobre o que o seu sistema ou jogo faz e qual problema ele resolve.*
+**Kenzai Odyssey Studios**
+*Website oficial do estúdio independente de jogos. Desenvolvido para apresentar nossa identidade, novidades e conectar a comunidade.*
 
-`JavaScript` `HTML` `CSS`
-👉 [Acessar Repositório](https://github.com)
+`JavaScript` `HTML` `CSS` `Web`
+👉 [Acessar Site Oficial](https://kenzaiodyssey.netlify.app)
 </td>
 <td width="50%" valign="top">
 
 ### 🔴 `project_02.exe`
-**Sistemas Roblox Studio**
-*Desenvolvimento de mecânicas modulares, interfaces limpas (UI) e automações internas usando Lua.*
+**157: Terra da Garoa**
+*Jogo de mundo aberto em desenvolvimento para a plataforma Roblox. Arquitetura de sistemas econômicos e mecânicas modulares em Lua.*
 
-`Lua` `Roblox` `Engine`
+`Lua` `Roblox Studio` `Mundo Aberto`
 👉 [Acessar Repositório](https://github.com)
 </td>
 </tr>
