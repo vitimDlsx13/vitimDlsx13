@@ -1,10 +1,9 @@
 # 🔴 SYSTEM ONLINE — `Initializing Neural Interface...`
-
 ```bash
 > Booting core systems...
 > Loading identity_protocol.exe
 > Access granted, welcome back, operator.
-> Full-Stack | Game Dev | System Architect
+> Full-Stack Web | Backend & Systems | Game Dev
 ```
 
 <div align="center">
@@ -17,17 +16,17 @@
 
 ```yaml
 > operator.info:
-    codename:        "vitimDlsx13"
-    nome:            "vitim"
-    função:          "Desenvolvedor Full-Stack & Game Dev"
-    localização:     "Brasil 🇧🇷"
-    linguagem_core:  ["JavaScript", "Python", "C#", "Lua"]
-    especialidade:   "Interfaces, automação e sistemas para Roblox Studio"
-    modo:            "aprendizado contínuo :: build_mode = true"
-    frase:           "Código é a única linguagem que reescreve a realidade."
+    codename: "vitimDlsx13"
+    nome: "vitim"
+    função: "Desenvolvedor Full-Stack & System Builder"
+    localização: "Brasil 🇧🇷"
+    linguagem_core: ["JavaScript", "Python", "Node.js", "C#", "Lua"]
+    especialidade: "Aplicações web, APIs, automação e arquitetura de sistemas"
+    modo: "aprendizado contínuo :: build_mode = true"
+    frase: "Código é a única linguagem que reescreve a realidade."
 ```
 
-> ⚡ *Transformando ideias em sistemas funcionais... Sempre testando os limites do código.*
+> ⚡ *Transformando ideias em sistemas web funcionais e escaláveis... Sempre testando os limites da tecnologia.*
 
 <img src="./assets/linha.gif" width="100%" height="3px">
 
@@ -35,43 +34,41 @@
 
 | Módulos Core (Linguagens) | Ferramentas Carregadas (Tools) |
 | :--- | :--- |
-| 🛑 **JavaScript** | ⚙️ **VS Code** |
+| 🛑 **JavaScript / TypeScript** | ⚙️ **VS Code** |
+| 🛑 **Python & Node.js** | ⚙️ **Git & GitHub** |
+| 🛑 **HTML5 & CSS3** | ⚙️ **Docker & APIs** |
+| 🛑 **C#** | ⚙️ **Linux Terminal** |
 | 🛑 **Lua (Roblox Studio)** | ⚙️ **Roblox Studio** |
-| 🛑 **Python** | ⚙️ **Git & GitHub** |
-| 🛑 **C#** | ⚙️ **Node.js** |
-| 🛑 **HTML5 & CSS3** | ⚙️ **Linux Terminal** |
 
 ### 📊 Nível de Sincronização dos Módulos
-* **Lua & Roblox Engine** ──████████████████████── 100%
-* **JavaScript / Web** ──████████████████░░░░── 80%
-* **Python Backend** ──████████████░░░░░░░░── 60%
-* **C# Systems** ──██████░░░░░░░░░░░░░░── 30%
+* **JavaScript / Web** ──████████████████████── 95%
+* **Python Backend** ──████████████████░░░░── 80%
+* **C# & Systems** ──████████████░░░░░░░░── 60%
+* **Lua & Roblox Engine** ──██████████░░░░░░░░░░── 50%
 
 <img src="./assets/linha.gif" width="100%" height="3px">
 
 ## 🚀 PROJETOS EM DESTAQUE — `projects.render()`
 
 <table border="1">
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 `project_01.exe`
-**Kenzai Odyssey Studios**
-*Website oficial do estúdio independente de jogos. Desenvolvido para apresentar nossa identidade, novidades e conectar a comunidade.*
-
-`JavaScript` `HTML` `CSS` `Web`
-👉 [Acessar Site Oficial](https://netlify.app)
-</td>
-<td width="50%" valign="top">
-
-### 🔴 `project_02.exe`
-**157: Terra da Garoa**
-*Jogo de mundo aberto em desenvolvimento para a plataforma Roblox. Desenvolvido por mim e pela minha equipe da **Kenzai Odyssey**. Arquitetura de sistemas econômicos e mecânicas modulares em Lua.*
-
-`Lua` `Roblox Studio` `Mundo Aberto`
-👉 [Jogar no Roblox](https://www.roblox.com/pt/games/84138521847272/157-Terra-Da-Garoa)
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 <code>project_01.exe</code></h3>
+      <strong>Kenzai Odyssey Studios (Web)</strong>
+      <p>Website oficial do estúdio independente. Desenvolvido para apresentar portfólio de projetos, identidade visual e central de novidades da equipe.</p>
+      <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Web Design</code>
+      <br><br>
+      👉 [Acessar Site Oficial](https://netlify.app)
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 <code>project_02.exe</code></h3>
+      <strong>157: Terra da Garoa (Roblox)</strong>
+      <p>Projeto de mundo aberto na plataforma Roblox desenvolvido com a equipe da Kenzai Odyssey. Foco em arquitetura de sistemas e scripts modulares.</p>
+      <code>Lua</code> <code>Roblox Studio</code> <code>Game Architecture</code>
+      <br><br>
+      👉 [Jogar no Roblox](https://www.roblox.com/pt/games/84138521847272/157-Terra-Da-Garoa)
+    </td>
+  </tr>
 </table>
 
 <img src="./assets/linha.gif" width="100%" height="3px">
@@ -80,14 +77,12 @@
 
 ```bash
 operator@github:~\$ cat objetivos_2026.log
-
-[✔] Dominar lógica avançada em JavaScript
-[✔] Criar sistemas modulares em Lua para Roblox Studio
-[■■■■■■□□□□] 60% — Aprofundar backend com Python
-[■■■□□□□□□□] 30% — Explorar C# para sistemas e jogos
-[ ] Contribuir com projetos open-source
-[ ] Publicar meu primeiro projeto full-stack em produção
-
+[✔] Dominar lógica avançada e ecossistema JavaScript
+[✔] Consolidar fundamentos de desenvolvimento web
+[■■■■■■■■□□] 80% — Aprofundar backend com Python e Node.js
+[■■■■■■□□□□] 60% — Criar e publicar projetos full-stack em produção
+[ ] Explorar arquitetura de microsserviços e bancos de dados
+[ ] Contribuir ativamente com projetos open-source
 operator@github:~\$ _
 ```
 
@@ -100,11 +95,7 @@ operator@github:~\$ _
 * 📧 **E-mail:** `vytorrodriguesdossantos@gmail.com`
 
 ---
-
 <div align="center">
-
-`🔴 SYSTEM STATUS: ACTIVE — Última sincronização neural: em tempo real`
-
-**© vitim & Kenzai Odyssey · Todos os sistemas operando normalmente sob o protocolo escuro.**
-
+  <code>🔴 SYSTEM STATUS: ACTIVE — Última sincronização neural: em tempo real</code><br>
+  <strong>© vitim & Kenzai Odyssey · Todos os sistemas operando normalmente sob o protocolo escuro.</strong>
 </div>
