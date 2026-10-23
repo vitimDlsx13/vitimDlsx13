@@ -58,7 +58,7 @@
       <p>Website oficial do estúdio independente. Desenvolvido para apresentar portfólio de projetos, identidade visual e central de novidades da equipe.</p>
       <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Web Design</code>
       <br><br>
-      👉 [Acessar Site Oficial](https://netlify.app)
+      👉 [Acessar Site Oficial](https://kenzaiodyssey.netlify.app)
     </td>
     <td width="50%" valign="top">
       <h3>🔴 <code>project_02.exe</code></h3>
